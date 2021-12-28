@@ -2321,6 +2321,11 @@ react-dom@17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
+react-driftjs@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/react-driftjs/-/react-driftjs-1.2.2.tgz#56353857a8b70d5bb271ab39f9deb9f06e45e8c5"
+  integrity sha512-rQKRVJ5JaI4bTSHoDpvDORyUnWpLr/EZoeZLbdm2J5oqcdCbnOT+iKZJkzYskQXU4sg4X9XppdDfQ7Z/o0pErw==
+
 react-is@17.0.2:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
@@ -2335,6 +2340,11 @@ react-refresh@0.8.3:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.8.3.tgz#721d4657672d400c5e3c75d063c4a85fb2d5d68f"
   integrity sha512-X8jZHc7nCMjaCqoU+V2I0cOhNW+QMBwSUkeXnTi8IPe6zaRWfn60ZzvFDZqWPfmSJfjub7dDW1SP0jaHWLu/hg==
+
+react-use-intercom@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/react-use-intercom/-/react-use-intercom-1.4.1.tgz#b8a34222112380ad8d74026b3f148d8bb26f9172"
+  integrity sha512-OJ8s1CqyAvFkuHpbLOcFUhkIfD2vj7o2NzNYL6NBFmsFnGX/hRrDswNNSoJ+zxxFAMFTye7VxAQyrJ2qkgYRNw==
 
 react@17.0.2:
   version "17.0.2"
